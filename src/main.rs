@@ -11,6 +11,9 @@ fn main() {
 
     // 字符串
     let s3 = String::from("hello world");
+    // 字符串切片
+    let mut s2 ="hello world";
+
 
 
 }
