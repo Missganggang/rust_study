@@ -9,4 +9,8 @@ fn main() {
     let s1 = 100;
     let mut s2 ="hello world";
 
+    // 字符串
+    let s3 = String::from("hello world");
+
+
 }
